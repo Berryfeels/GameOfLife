@@ -4,7 +4,7 @@ Programming GameOfLife, virtualisation of cellular life in time where life follo
 
 Compilation: cc life.c -o life
 
-Run as: echo 'sdxddssaaww' | ./a.out 5 5 O | cat - e
+Run as: echo 'sdxddssaaww' | ./a.out 5 5 0 | cat - e
 Where stdin string is the first generation:
 Imagine a pen starting in the top left corner of the board.
 Each command is one of these characters:
